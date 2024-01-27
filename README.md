@@ -2,18 +2,14 @@
 
 ## 🧑‍💻 About Me:
 
-- **Current:** Software Engineer at Mouser Electronics.
-- **Skills:** Python, web applications, Splunk, Zabbix.
-- **Exploring:** Kafka, Redis, and Distributed Tracing.
+- Software Engineer at Mouser Electronics.
+- Interested in FullStack applications & Data Science
+- Currently exploring Spring Boot, Android App Development.
 
 ## 🎓 Academic Background:
 
 - Master's in Computer Science from UTD.
-
-## 🚀 Coding Passions:
-
-- Interested in FullStack applications & Data Science.
-- Currently exploring Spring Boot, Android App Development.
+- Bachelor's in Electronics and Communication from VIT.
 
 ## 🤝 Let's Connect:
 
