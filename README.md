@@ -1,17 +1,12 @@
-### Hi there 👋
-
-<!--
-**ramnath-subramanian18/ramnath-subramanian18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hey there! I'm Ramnath Subramanian, a Software Engineer at Mouser Electronics. I wield Python scripts for extracting insights, craft web applications for Dashboard brilliance, and conjure magic with Splunk and Zabbix. Currently venturing into the realms of Kafka, Redis, and Distributed Tracing. Let's connect on LinkedIn or drop me an email. Ready for a coding odyssey? 🚀
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hey there! I'm Ramnath Subramanian, a Software Engineer at Mouser Electronics. I wield Python scripts for extracting insights, craft web applications for Dashboard brilliance, and conjure magic with Splunk and Zabbix. Currently venturing into the realms of Kafka, Redis, and Distributed Tracing. Let's connect on LinkedIn or drop me an email. Ready for a coding odyssey? 🚀
+🧑‍💻 About Me:
+Current Explorer: Software Engineer at Mouser Electronics.
+Coding Arsenal: Python scripts, web applications, Splunk, and Zabbix magic-maker.
+Tech Odyssey: Venturing into Kafka, Redis, and the enchanting realm of Distributed Tracing.
+🎓 Academic Journey:
+Master's Degree: Completed in Computer Science from UTD.
+🚀 Coding Passions:
+Interest: FullStack applications & Data Science.
+Current Expedition: Exploring Spring Boot, Android App Development, and more through self projects.
+🤝 Let's Connect:
+LinkedIn: Connect with me
+Email: your.email@example.com
