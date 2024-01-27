@@ -13,8 +13,9 @@
 
 ## 🤝 Let's Connect:
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ramnath-subramanian-2b619b162/))
+- **Email:** sramnath1812@gmail.com
+- **Portfolio:**:https://ramnath-portfolio.netlify.app/
 
 ## 🌐 Ready for a Coding Odyssey Together?
 
