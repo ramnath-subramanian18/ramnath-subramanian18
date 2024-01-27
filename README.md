@@ -5,9 +5,6 @@
 ### Current Explorer
 - Software Engineer at Mouser Electronics.
 
-### Coding Arsenal
-- Python scripts, web applications, Splunk, and Zabbix magic-maker.
-
 ## 🎓 Academic Journey:
 
 ### Master's Degree
