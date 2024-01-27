@@ -1,31 +1,23 @@
-# 👋 Greetings Coders! I'm Ramnath Subramanian 🚀
+# 👋 Hi there, I'm Ramnath Subramanian 🚀
 
 ## 🧑‍💻 About Me:
 
-### Current Explorer
-- Software Engineer at Mouser Electronics.
+- **Current:** Software Engineer at Mouser Electronics.
+- **Skills:** Python, web applications, Splunk, Zabbix.
+- **Exploring:** Kafka, Redis, and Distributed Tracing.
 
-## 🎓 Academic Journey:
+## 🎓 Academic Background:
 
-### Master's Degree
-- Completed in Computer Science from UTD.
+- Master's in Computer Science from UTD.
 
 ## 🚀 Coding Passions:
 
-### Interest
-- FullStack applications & Data Science.
-
-### Current Expedition
-- Exploring Spring Boot, Android App Development, and more through self-projects.
+- Interested in FullStack applications & Data Science.
+- Currently exploring Spring Boot, Android App Development.
 
 ## 🤝 Let's Connect:
 
-### LinkedIn
-- [Connect with me]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ramnath-subramanian-2b619b162/))
-
-### Email
-- sramnath1812@gmail.com
-### Portfiolio
-- https://ramnath-portfolio.netlify.app/
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)
+- **Email:** your.email@example.com
 
 ## 🌐 Ready for a Coding Odyssey Together?
