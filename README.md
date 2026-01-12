@@ -15,7 +15,7 @@
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ramnath-subramanian-2b619b162/)
 - **Email:** sramnath1812@gmail.com
-- **Portfolio:**:https://ramnath-portfolio.netlify.app/
+- **Portfolio:**:https://ramnath-subramanian-portfolio.netlify.app/
 
 ## 🌐 Ready for a Coding Odyssey Together?
 
