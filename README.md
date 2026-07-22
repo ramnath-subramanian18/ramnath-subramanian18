@@ -204,20 +204,6 @@ Automating enterprise branch deployments using Python, REST APIs, and Infrastruc
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ramnath-subramanian-2b619b162/
