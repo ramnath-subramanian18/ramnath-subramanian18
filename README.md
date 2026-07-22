@@ -1,45 +1,231 @@
-# 👋 Hi there, I'm Ramnath Subramanian 🚀
+# 👋 Hi, I'm Ramnath Subramanian
 
-## 🧑‍💻 About Me:
+### Infrastructure Automation Engineer | Network Automation | AI | Python
 
-- Software Engineer at Mouser Electronics.
-- Interested in FullStack applications & Data Science
-- Currently exploring Spring Boot, Android App Development.
+I'm an **Infrastructure Automation Engineer** passionate about building intelligent infrastructure through **Network Automation, AI Agents, Python, Ansible, Cisco Technologies, F5, SD-WAN, and Observability**.
 
-## 🎓 Academic Background:
+I enjoy designing scalable automation solutions that simplify infrastructure management, improve reliability, and reduce operational effort.
 
-- Master's in Computer Science from UTD.
-- Bachelor's in Electronics and Communication from VIT.
+---
 
-## 🤝 Let's Connect:
+## 🚀 Currently Working On
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ramnath-subramanian-2b619b162/)
-- **Email:** sramnath1812@gmail.com
-- **Portfolio:**:https://ramnath-subramanian-portfolio.netlify.app/
+- 🤖 AI-Powered Network Operations Assistant
+- 🌐 Enterprise Network Automation
+- ⚙️ Infrastructure as Code (IaC)
+- 📡 Cisco SD-WAN & Enterprise Networking
+- 🔥 F5 BIG-IP Automation
+- 📊 Monitoring & Observability Platforms
+- 📚 Retrieval-Augmented Generation (RAG) for Infrastructure Knowledge
 
-## 🌐 Ready for a Coding Odyssey Together?
+---
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> -->
+## 💼 Professional Experience
 
-## Languages and Tools
-<br>
+- **Infrastructure Automation Engineer** @ GEICO Tech
+- **Infrastructure Engineer** @ Mouser Electronics
+- **Infrastructure Engineer Intern** @ Intel Corporation
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apache Spark](https://img.shields.io/badge/apache%20spark-%2300a4e4.svg?style=for-the-badge&logo=apache-spark&logoColor=black)
+---
 
+## 🎓 Education
 
-<br>
+**The University of Texas at Dallas**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Master of Science in Computer Science
 
+**Vellore Institute of Technology**
 
-<br>
+- Bachelor of Engineering in Electronics & Communication Engineering
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+---
 
+## 🏆 Certifications
 
+- Cisco Certified Network Associate (CCNA)
+- Palo Alto Networks Prisma SD-WAN: Design and Operation
+- Microsoft Certified: Azure Developer Associate (AZ-204)
 
+---
 
+# 🛠️ Tech Stack
 
-<br>
+## 🌐 Infrastructure & Networking
 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![F5](https://img.shields.io/badge/F5-BIG--IP-red?style=for-the-badge)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-F04E23?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Automation-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+**Technologies**
+
+- Cisco Routing & Switching
+- TCP/IP
+- DNS
+- DHCP
+- VLANs
+- STP
+- OSPF
+- ACLs
+- Cisco SD-WAN
+- F5 BIG-IP
+- Palo Alto Firewalls
+
+---
+
+## 🤖 Automation
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+- Python
+- Ansible
+- Jinja2
+- Bash
+- PowerShell
+- REST APIs
+
+---
+
+## 🧠 AI & LLMs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
+
+- OpenAI API
+- AI Agents
+- LangChain
+- LlamaIndex
+- ChromaDB
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## 📊 Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+- Prometheus
+- Grafana
+- Splunk
+- SNMP
+- Syslog
+- NetFlow
+
+---
+
+## ☁️ DevOps & Platforms
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- Docker
+- Kubernetes
+- Azure DevOps
+- Git
+- Linux
+
+---
+
+## 💻 Backend Development
+
+- Python
+- Flask
+- Spring Boot
+- Node.js
+- Java
+- REST APIs
+
+---
+
+## 🎨 Frontend Development
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+---
+
+## 🗄️ Databases
+
+- PostgreSQL
+- MongoDB
+- Redis
+- MySQL
+- MSSQL
+- Oracle
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Network Operations Assistant
+
+Building an AI-powered platform capable of:
+
+- Natural language network troubleshooting
+- SSH & API-based automation
+- Configuration generation
+- Network compliance validation
+- Enterprise infrastructure documentation
+
+---
+
+### 🌐 Enterprise Network Automation
+
+- Python + Ansible automation
+- Cisco & F5 provisioning
+- Configuration standardization
+- Automated validation
+
+---
+
+### 📊 Observability Platform
+
+- Prometheus
+- Grafana
+- Python Automation
+- Alerting
+- Dashboard generation
+
+---
+
+### 📡 SD-WAN Automation
+
+Automating enterprise branch deployments using Python, REST APIs, and Infrastructure as Code.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ramnath-subramanian-2b619b162/
+- 🌐 **Portfolio:** https://ramnath-subramanian-portfolio.netlify.app/
+- 📧 **Email:** sramnath1812@gmail.com
+
+---
+
+## 💡 Fun Fact
+
+> *"I enjoy building AI-driven solutions that bridge networking, automation, and software engineering to simplify complex infrastructure operations."*
